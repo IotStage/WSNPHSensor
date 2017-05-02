@@ -29,6 +29,7 @@ public:
 	uint16_t moyenne(uint8_t* arr, uint8_t number);
 	uint8_t getMesure();
 	
+private:
 	uint8_t _sensorPin;
 	uint8_t _offset;
 	uint8_t _intervalMesure;

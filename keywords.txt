@@ -1,0 +1,22 @@
+ #######################################
+# Syntax Coloring Map For Ph lib
+######################################## 
+# Class
+#######################################
+
+Ph	KEYWORD1
+WSNPHSensor KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+init KEYWORD2
+moyenne KEYWORD2
+getMesure KEYWORD2
+updatePh KEYWORD2
+
+#######################################
+# Constants
+#######################################
+
+SensorPinPh LITERAL1
